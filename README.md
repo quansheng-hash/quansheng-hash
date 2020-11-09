@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 🤔 我是全生，java后端开发工程师，懂一点前端和python知识，喜欢玩，自由的少年，一个三观比主角还要正的技术人
 
 # contact me
-1.[哔哩哔哩](http://https://www.bilibili.com/ "哔哩哔哩")@CGLIB
-2.[知乎](https://www.zhihu.com/signin?next=%2F "知乎")@quansheng
+1. [哔哩哔哩](http://https://www.bilibili.com/ "哔哩哔哩")@CGLIB
+2. [知乎](https://www.zhihu.com/signin?next=%2F "知乎")@quansheng
 
 # Project
 ## Study/interview
